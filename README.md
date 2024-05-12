@@ -12,7 +12,7 @@ Desafio baseado em [Controle de Fluxo da DIO](https://github.com/digitalinnovati
 ## 📃 Instruções de como executar o projeto.
 
 - Abra o terminal (Digite "cmd" em sua barra de pesquisa ou "Prompt de Comando").
-- Procure o local da pasta e copie seu caminho da barra de pesquisa que fica acima (Um clique, botão direito do mouse e clique em "Copiar").
+- Procure o local da pasta do projeto e copie seu caminho da barra de pesquisa que fica acima (Um clique, botão direito do mouse e clique em "Copiar").
 - Digite os seguintes comandos na ordem dentro do terminal.
 ```
 cd [Local da pasta copiado - CTRL + V no seu teclado ou Botão direito do mouse]
